@@ -9,7 +9,7 @@ some work on your local machine, then submit it to Canvas. If the assignment inc
 tests, you will need to pass all tests before Canvas will register the assignment as
 **Complete**.
 
-You'll first see an assignment's instructions here, in Canvas. Howeer, the work you'll
+You'll first see an assignment's instructions here, in Canvas. However, the work you'll
 be doing will be on your local machine. In order to work on an assignment, you'll need
 to get it 'forked' and 'cloned' to your computer.
 
